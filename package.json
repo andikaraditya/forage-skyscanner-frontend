@@ -26,7 +26,7 @@
     ]
   },
   "devDependencies": {
-    "@skyscanner/backpack-web": "^15.1.0",
+    "@skyscanner/backpack-web": "^31.7.1",
     "bpk-mixins": "^36.2.0",
     "bpk-stylesheets": "^7.2.16",
     "react": "^17.0.2",
